@@ -16,9 +16,9 @@ This project is a lexical analyzer (scanner) designed to tokenize source code. I
 git clone https://github.com/burhanHere/BAIA_Compiler-TinyCPP-.git
 ```
 2. Navigate to the project directory:
-    ```bach
-    cd your/directory
-    ```
+```bach
+cd your/directory
+```
 
 ## Usage
 1. Place your source code file in the project directory.
