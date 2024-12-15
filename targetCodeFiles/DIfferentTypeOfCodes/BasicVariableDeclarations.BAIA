@@ -1,0 +1,3 @@
+int mainVar = 10;
+float ratio = 3.14;
+double largeNum = 5.67e-3;

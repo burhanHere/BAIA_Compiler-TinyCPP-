@@ -1,0 +1,11 @@
+int main() {
+    float x = 5.3;
+    double y = 3.14e2;
+    x += y * 2;
+    if (x > y) {
+        x -= 10;
+    } else {
+        x += 5;
+    }
+    return 0;
+}

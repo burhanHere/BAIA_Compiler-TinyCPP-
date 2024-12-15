@@ -1,0 +1,2 @@
+loopcounter = 5.3 + x_value - 2e10; 
+agar (loop_counter >= 10) { x_value += 1; } else { x_value =:= 0; } 
